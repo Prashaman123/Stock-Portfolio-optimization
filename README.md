@@ -6,8 +6,6 @@ This project is a Python-based Stock Portfolio Optimization tool that aims to as
 
 ## Prerequisites
 Make sure you have the necessary Python libraries installed:
-
-```bash
 pip install numpy pandas matplotlib seaborn statsmodels pandas_datareader yfinance
 
 ## Code Explanation
