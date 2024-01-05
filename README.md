@@ -48,3 +48,7 @@ The script provides insights into portfolio optimization by considering historic
 
 Feel free to adapt the code for different stocks, time periods, or optimization criteria according to your preferences.
 
+
+Make sure to replace the `[LICENSE](LICENSE)` link with the appropriate link to your license file if you have one. Additionally, you can customize the content based on your specific needs.
+
+
